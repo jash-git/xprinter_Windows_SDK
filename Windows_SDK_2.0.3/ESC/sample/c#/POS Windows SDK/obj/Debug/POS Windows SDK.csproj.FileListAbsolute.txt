@@ -1,0 +1,10 @@
+C:\Users\jashv\OneDrive\桌面\Windows_SDK_2.0.3\ESC\sample\c#\POS Windows SDK\bin\x64\POS Windows SDK.exe.config
+C:\Users\jashv\OneDrive\桌面\Windows_SDK_2.0.3\ESC\sample\c#\POS Windows SDK\bin\x64\POS Windows SDK.exe
+C:\Users\jashv\OneDrive\桌面\Windows_SDK_2.0.3\ESC\sample\c#\POS Windows SDK\bin\x64\POS Windows SDK.pdb
+C:\Users\jashv\OneDrive\桌面\Windows_SDK_2.0.3\ESC\sample\c#\POS Windows SDK\obj\Debug\POS Windows SDK.csproj.AssemblyReference.cache
+C:\Users\jashv\OneDrive\桌面\Windows_SDK_2.0.3\ESC\sample\c#\POS Windows SDK\obj\Debug\WinFormUSB.Form1.resources
+C:\Users\jashv\OneDrive\桌面\Windows_SDK_2.0.3\ESC\sample\c#\POS Windows SDK\obj\Debug\WinFormDemo.Properties.Resources.resources
+C:\Users\jashv\OneDrive\桌面\Windows_SDK_2.0.3\ESC\sample\c#\POS Windows SDK\obj\Debug\POS Windows SDK.csproj.GenerateResource.cache
+C:\Users\jashv\OneDrive\桌面\Windows_SDK_2.0.3\ESC\sample\c#\POS Windows SDK\obj\Debug\POS Windows SDK.csproj.CoreCompileInputs.cache
+C:\Users\jashv\OneDrive\桌面\Windows_SDK_2.0.3\ESC\sample\c#\POS Windows SDK\obj\Debug\POS Windows SDK.exe
+C:\Users\jashv\OneDrive\桌面\Windows_SDK_2.0.3\ESC\sample\c#\POS Windows SDK\obj\Debug\POS Windows SDK.pdb

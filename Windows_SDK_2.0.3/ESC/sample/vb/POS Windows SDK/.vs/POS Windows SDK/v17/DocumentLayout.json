@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jashv\\OneDrive\\\u684C\u9762\\Windows_SDK_2.0.3\\ESC\\sample\\vb\\POS Windows SDK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC94F467-D7E9-480C-8489-050FD4A4BF9E}|POS Windows SDK.vbproj|c:\\users\\jashv\\onedrive\\\u684C\u9762\\windows_sdk_2.0.3\\esc\\sample\\vb\\pos windows sdk\\posprinter.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC94F467-D7E9-480C-8489-050FD4A4BF9E}|POS Windows SDK.vbproj|solutionrelative:posprinter.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC94F467-D7E9-480C-8489-050FD4A4BF9E}|POS Windows SDK.vbproj|c:\\users\\jashv\\onedrive\\\u684C\u9762\\windows_sdk_2.0.3\\esc\\sample\\vb\\pos windows sdk\\exampleform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC94F467-D7E9-480C-8489-050FD4A4BF9E}|POS Windows SDK.vbproj|solutionrelative:exampleform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC94F467-D7E9-480C-8489-050FD4A4BF9E}|POS Windows SDK.vbproj|c:\\users\\jashv\\onedrive\\\u684C\u9762\\windows_sdk_2.0.3\\esc\\sample\\vb\\pos windows sdk\\exampleform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DC94F467-D7E9-480C-8489-050FD4A4BF9E}|POS Windows SDK.vbproj|solutionrelative:exampleform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC94F467-D7E9-480C-8489-050FD4A4BF9E}|POS Windows SDK.vbproj|c:\\users\\jashv\\onedrive\\\u684C\u9762\\windows_sdk_2.0.3\\esc\\sample\\vb\\pos windows sdk\\utils.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC94F467-D7E9-480C-8489-050FD4A4BF9E}|POS Windows SDK.vbproj|solutionrelative:utils.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PosPrinter.vb",
+              "DocumentMoniker": "C:\\Users\\jashv\\OneDrive\\\u684C\u9762\\Windows_SDK_2.0.3\\ESC\\sample\\vb\\POS Windows SDK\\PosPrinter.vb",
+              "RelativeDocumentMoniker": "PosPrinter.vb",
+              "ToolTip": "C:\\Users\\jashv\\OneDrive\\\u684C\u9762\\Windows_SDK_2.0.3\\ESC\\sample\\vb\\POS Windows SDK\\PosPrinter.vb",
+              "RelativeToolTip": "PosPrinter.vb",
+              "ViewState": "AgIAADsAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-16T01:02:58.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExampleForm.vb",
+              "DocumentMoniker": "C:\\Users\\jashv\\OneDrive\\\u684C\u9762\\Windows_SDK_2.0.3\\ESC\\sample\\vb\\POS Windows SDK\\ExampleForm.vb",
+              "RelativeDocumentMoniker": "ExampleForm.vb",
+              "ToolTip": "C:\\Users\\jashv\\OneDrive\\\u684C\u9762\\Windows_SDK_2.0.3\\ESC\\sample\\vb\\POS Windows SDK\\ExampleForm.vb*",
+              "RelativeToolTip": "ExampleForm.vb*",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwLsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-16T01:02:45.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExampleForm.vb [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\jashv\\OneDrive\\\u684C\u9762\\Windows_SDK_2.0.3\\ESC\\sample\\vb\\POS Windows SDK\\ExampleForm.vb",
+              "RelativeDocumentMoniker": "ExampleForm.vb",
+              "ToolTip": "C:\\Users\\jashv\\OneDrive\\\u684C\u9762\\Windows_SDK_2.0.3\\ESC\\sample\\vb\\POS Windows SDK\\ExampleForm.vb [\u8A2D\u8A08]*",
+              "RelativeToolTip": "ExampleForm.vb [\u8A2D\u8A08]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-16T01:02:41.061Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utils.vb",
+              "DocumentMoniker": "C:\\Users\\jashv\\OneDrive\\\u684C\u9762\\Windows_SDK_2.0.3\\ESC\\sample\\vb\\POS Windows SDK\\Utils.vb",
+              "RelativeDocumentMoniker": "Utils.vb",
+              "ToolTip": "C:\\Users\\jashv\\OneDrive\\\u684C\u9762\\Windows_SDK_2.0.3\\ESC\\sample\\vb\\POS Windows SDK\\Utils.vb",
+              "RelativeToolTip": "Utils.vb",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-16T01:02:32.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
